@@ -2,7 +2,6 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Math -->
 
-<img alt="Night Coding" src="Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
