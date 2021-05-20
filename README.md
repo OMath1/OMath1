@@ -32,7 +32,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/OMath1"><img src="./assets/LinkedinLogo.png" width="30px></a>
-<a href="mailto:matheusav7@gmail.com"><img src="./assets/GmailLogo.png" width="30px></a>
-<a href="https://instagram.com/matheus.aavila_"><img src="./assets/InstagramLogo.png" width="30px"></a>
+<a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo.png" width="30px></a>
+<a href="mailto:matheusav7@gmail.com"><img src="GmailLogo.png" width="30px></a>
+<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo.png" width="30px"></a>
 </p>
