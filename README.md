@@ -31,7 +31,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo.png" width="50px"></a>
-<a href="mailto:matheusav7@gmail.com"><img src="GmailLogo.png" width="50px"></a>
-<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo.png" width="50px"></a>
+<a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo2.png" width="50px"></a>
+<a href="mailto:matheusav7@gmail.com"><img src="EmailLogo2.png" width="50px"></a>
+<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo2.png" width="50px"></a>
 </p>
