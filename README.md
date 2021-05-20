@@ -8,7 +8,6 @@
 💡 &nbsp; I live in São Paulo, Brasil.\
 🎓 &nbsp;I'm currently studying Web development by my own.\
 🌱 &nbsp;I'm on track for learning more about libraries and JavaScript frameworks.\
-✉️ &nbsp;You can shoot me an email at matheusav7@gmail.com.
 
 
 ### 🛠 &nbsp;Tech Stack
