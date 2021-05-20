@@ -22,7 +22,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/OMath1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OMath1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OMath1&layout=compact&langs_count=8&theme=algolia"/>
@@ -32,7 +32,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo.png" width="30px></a>
-<a href="mailto:matheusav7@gmail.com"><img src="GmailLogo.png" width="30px></a>
-<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo.png" width="30px"></a>
+<a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo.png" width="50px"></a>
+<a href="mailto:matheusav7@gmail.com"><img src="GmailLogo.png" width="50px"></a>
+<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo.png" width="50px"></a>
 </p>
