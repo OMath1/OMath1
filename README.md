@@ -2,6 +2,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Math -->
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I live in São Paulo, Brasil.\
@@ -9,7 +11,6 @@
 🌱 &nbsp;I'm on track for learning more about libraries and JavaScript frameworks.\
 ✉️ &nbsp;You can shoot me an email at matheusav7@gmail.com.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
