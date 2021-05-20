@@ -1,6 +1,8 @@
-<img alt="Night Coding" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Math!</h2>
+<img alt="Hand Wave" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Math!</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Math -->
+
+<img alt="Night Coding" src="Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
