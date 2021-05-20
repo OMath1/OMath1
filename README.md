@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Math!</h2>
+<img alt="Night Coding" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Math!</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Math -->
 
@@ -20,7 +20,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<p align="center">
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
 <a href="https://github.com/OMath1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OMath1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OMath1&layout=compact&langs_count=8&theme=algolia"/>
@@ -34,4 +36,3 @@
 <a href="mailto:matheusav7@gmail.com"><img src="./assets/GmailLogo.png" width="30px></a>
 <a href="https://instagram.com/matheus.aavila_"><img src="./assets/InstagramLogo.png" width="30px"></a>
 </p>
-# OMath1
