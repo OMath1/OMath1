@@ -33,5 +33,5 @@
 <p>
 <a href="https://linkedin.com/in/OMath1"><img src="LinkedinLogo2.png" width="50px"></a>
 <a href="mailto:matheusav7@gmail.com"><img src="EmailLogo2.png" width="50px"></a>
-<a href="https://instagram.com/matheus.aavila_"><img src="InstagramLogo2.png" width="50px"></a>
+<a href="https://instagram.com/matheus.aavila"><img src="InstagramLogo2.png" width="50px"></a>
 </p>
