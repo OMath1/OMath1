@@ -1,6 +1,6 @@
-<img alt="Hand Wave" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Math!</h2>
+<img alt="Hand Wave" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Matheus!</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Math -->
+<!-- ## 👋 &nbsp;Hey there! I'm Matheus -->
 
 
 ### 👨🏻‍💻 &nbsp;About Me
